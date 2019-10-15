@@ -4,7 +4,7 @@
  */
 
 #include <stdbool.h>
-#include "sp-protocol.h"
+#include "serialize.h"
 
 typedef enum SPMessageFields
 {

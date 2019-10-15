@@ -6,7 +6,7 @@
 #include <cassert>
 #include <iostream>
 #include <memory>
-#include "sp-protocol.h"
+#include "serialize.h"
 
 int main(int argc, char ** argv)
 {
